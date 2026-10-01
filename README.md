@@ -2,7 +2,7 @@
 
 **Capture. Index. Retrieve.** A local-first context layer that works with any AI coding agent.
 
-[![CI](https://github.com/yunaremaia/context-bridge/actions/workflows/ci.yml/badge.svg)](https://github.com/yunaremaia/context-bridge/actions) [![License](https://img.shields.io/github/license/yunaremaia/context-bridge)](https://github.com/yunaremaia/context-bridge/blob/main/LICENSE) [![Stars](https://img.shields.io/github/stars/yunaremaia/context-bridge)](https://github.com/yunaremaia/context-bridge)
+[![CI](https://github.com/yunaremaia/context-bridge/actions/workflows/ci.yml/badge.svg)](https://github.com/yunaremaia/context-bridge/actions) [![License](https://img.shields.io/github/license/yunaremaia/context-bridge)](https://github.com/yunaremaia/context-bridge/blob/main/LICENSE) [![Stars](https://img.shields.io/github/stars/yunaremaia/context-bridge)](https://github.com/yunaremaia/context-bridge) [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/) [![Release](https://img.shields.io/github/v/release/yunaremaia/context-bridge)](https://github.com/yunaremaia/context-bridge/releases/latest)
 
 ---
 
@@ -66,6 +66,17 @@ Eeztv1nCYUt1fwGWpzKC948gaWfjejYCAuLtUMgzDWbW
 
 Funding platforms are configured in [`.github/FUNDING.yml`](.github/FUNDING.yml).
 
+If this tool is useful to you, a star helps other people find it.
+
+## Related tools
+
+- **[driftcheck](https://github.com/yunaremaia/driftcheck)** — detect version drift between docs and toolchain files
+- **[mcp-guard](https://github.com/yunaremaia/mcp-guard)** — audit MCP servers for unsafe permissions
+- **[memwatch](https://github.com/yunaremaia/memwatch)** — health-check and prune agent memory stores
+- **[agent-workspace](https://github.com/yunaremaia/agent-workspace)** — isolated workspaces per AI agent session
+
+Part of a family of focused, single-purpose developer tools — each one does one thing
+and does it well.
 ## License
 
 MIT
